@@ -20,4 +20,8 @@ registro.registrar_nota("02", "POO", 78)
 # Mostrar promedio 
 promedio = registro.promedio_estudiante("01")
 
-print(f"El promedio del estudiante '01' es: {promedio}")
+print("===========================================")
+
+print(f"\nEl promedio del estudiante '01' es: {promedio}")
+
+print("=========================================== ")

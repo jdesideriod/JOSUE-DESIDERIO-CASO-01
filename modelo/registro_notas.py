@@ -1,6 +1,6 @@
 from modelo.estudiante import Estudiante
 from modelo.asignatura import Asignatura
-from nota import Nota
+from modelo.nota import Nota
 
 
 class RegistroNotas:

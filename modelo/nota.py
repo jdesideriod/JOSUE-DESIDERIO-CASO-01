@@ -3,7 +3,7 @@ class Nota:
    def __init__(self, estudiante, asignatura, calificacion):
       self._estudiante = estudiante 
       self._asignatura = asignatura
-      self._calificaion = calificacion 
+      self._calificacion = calificacion 
 
    @property
    def estudiante(self):
@@ -14,5 +14,5 @@ class Nota:
       return self._asignatura
 
    @property
-   def califiacion(self):
-      return self._calificaion 
+   def calificacion(self):
+      return self._calificacion
